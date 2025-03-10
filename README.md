@@ -5,3 +5,5 @@ Model Selection & Evaluation: Experimented with multiple models, including Rando
 Performance Optimization: Achieved a 92% accuracy with the optimized XGBoost model.
 
 **Technology:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost)
+
+**Report** [`Multi-Class Prediction of Obesity Risk`](https://drive.google.com/file/d/1_PO2ebELBxpfR0q7zuRdzCSFd8ZLf7JI/view?usp=sharing)
